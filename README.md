@@ -1,11 +1,11 @@
-### Hi 👋 My name is Raffaele Siciliano
+Hi 👋 My name is Raffaele Siciliano
 ====================================
 ###### 🎓 Pier Student @Apple Developer Academy in Naples
 
 I'm a 25 y.o. Pier Student who started programming in 2021 at the beginning of my journey at the Apple Developer Academy.
 
 # 💫 About Me:
-🌍  I'm based in Naples<br>🔭 I’m currently working on AirBadge & on improving iOS Development skills<br>🌕
+🌍  I'm based in Naples<br>🔭 I’m currently working on AirBadge & on improving iOS Development skills<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](.com/in/raffaele-siciliano/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raffaelesiciliano97) 
