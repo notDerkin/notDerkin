@@ -15,8 +15,8 @@ I'm a 25 y.o. Pier Student who started programming in 2021 at the beginning of m
 [![1024-2.png](https://i.postimg.cc/L55kJdc3/1024-2.png)](https://apps.apple.com/it/app/rundemic/id1611784330) Rundemic
 
 ## App on TestFlight:
-[![1024.png](https://i.postimg.cc/Bvnqckct/1024.png)](https://testflight.apple.com/join/YtuvOMjh)
-[![1to3icon.png](https://i.postimg.cc/prNqRNsd/1to3icon.png)](https://testflight.apple.com/join/omp38SDQ) 1to3 <br>
+[![1024.png](https://i.postimg.cc/Bvnqckct/1024.png)](https://testflight.apple.com/join/YtuvOMjh) MotorLog <br>
+[![1to3icon.png](https://i.postimg.cc/prNqRNsd/1to3icon.png)](https://testflight.apple.com/join/omp38SDQ) 1to3
 
 
 # 💻 Tech Stack:
