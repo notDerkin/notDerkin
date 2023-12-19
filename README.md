@@ -2,7 +2,7 @@ Hi 👋 My name is Raffaele Siciliano
 ====================================
 ###### 🎓 Pier Student Graduate @Apple Developer Academy in Naples
 
-I'm a 25 y.o. iOS Developer who started programming in 2021 at the beginning of my journey at the Apple Developer Academy.
+I'm a 26 y.o. iOS Developer who started programming in 2021 at the beginning of my journey at the Apple Developer Academy.
 
 # 💫 About Me:
 🌍  I'm based in Naples<br>🔭 I’m currently working on MotorLog & on improving Development skills<br>
