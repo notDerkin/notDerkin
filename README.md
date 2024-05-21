@@ -12,8 +12,6 @@ I'm a 26 y.o. iOS Developer who started programming in 2021 at the beginning of 
 
 ## 📱 App on the Store:
 [![100.png](https://i.postimg.cc/rwH316Hg/100.png)](https://apps.apple.com/it/app/motorlog/id1666500026) MotorLog, Available for **iOS** and **MacOS** <br>
-[![1024.png](https://i.postimg.cc/Cxx0dc5L/1024.png)](https://apps.apple.com/it/app/reemble/id1626107495) Reemble <br>
-[![1024-2.png](https://i.postimg.cc/L55kJdc3/1024-2.png)](https://apps.apple.com/it/app/rundemic/id1611784330) Rundemic
 
 
 # 💻 Tech Stack:
